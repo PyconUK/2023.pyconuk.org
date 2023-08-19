@@ -20,7 +20,7 @@ title: "PyCon UK 2023"
 cfp_open: true
 tickets_open: true
 schedule_ready: true
-show_sponsors: false
+show_sponsors: true
 show_django_girls: true
 
 # When changing the year, please change it in the title, above. We can't use vars in vars.

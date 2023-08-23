@@ -24,3 +24,8 @@ title: Sponsors
   <h3>Bronze sponsors</h3>
   <a href="#"><img height="140" width="140" src="/images/sponsors/snakeholder.png" alt="Logo of Snakeholder, a sponsor of PyconUK {{ site.con_year }}" title="Snakeholder"></a>
 </div>
+
+<div class="box box_other">
+  <h3>Other Supporters</h3>
+  <a href="#"><img height="140" width="140" src="/images/sponsors/anvil-logo.png" alt="Logo of Anvil, a supporter of PyconUK {{ site.con_year }}" title="Anvil"></a>
+</div>

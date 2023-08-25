@@ -29,5 +29,6 @@ title: Sponsors
 
 <div class="box box_red">
   <h3>Other Supporters</h3>
+  <a href="https://pretalx.com"><img height="130" width="237" src="/images/sponsors/pretalx.png" alt="Logo of Pretalx, a supporter of PyconUK {{ site.con_year }}" title="Pretalx"></a>
   <a href="https://anvil.works/"><img height="130" width="463" src="/images/sponsors/anvil.png" alt="Logo of Anvil, a supporter of PyconUK {{ site.con_year }}" title="Anvil"></a>
 </div>

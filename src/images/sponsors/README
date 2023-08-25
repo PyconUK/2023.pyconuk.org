@@ -9,7 +9,19 @@ Headliner: 180
 Gold: 160
 Silver: 150
 Bronze: 140
+Other: 130
 
 Examples:
 Resize with imagemagick for a silver sponsor (height 150):
 convert -resize 300X150  source.png dest.jpg
+
+But how do I know what dimensions to use?
+First you need to know the current dimensions. On systems where the 'file' command is available: pretalx.png: PNG image data, 550 x 302, 8-bit colormap, non-interlaced
+Otherwise, you should be able to find these using a graphics manipulation tool (e.g. paint.net).
+Now, we want this logo to go in (in this case) the 'other' section, which means it needs to have a height of 130. We can see that the current height is 302.
+Therefore, the scaling factor is 130/302 ~ 0.43.
+We multiply the current height by this factor to get ~ 237.
+Now, we can convert it using:
+convert -resize 237x130 pretalx.png pretalx.png
+We'll also set these values for the width and height in the sponsors.md (and associate the appropriate URL to link to that sponsor).
+Try to make sure that every image is < 20KB.

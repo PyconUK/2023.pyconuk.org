@@ -13,7 +13,7 @@ title: Sponsors
 
 <div class="box box_yellow">
   <h3>Gold sponsors</h3>
-  <a href="https://kraken.tech"><img height="160" width="231" src="/images/sponsors/kraken.png" alt="Logo of Kraken, a sponsor of PyCon UK {{ site.con_year }}" title="Snakeholder"></a>
+  <a href="https://kraken.tech"><img height="160" width="231" src="/images/sponsors/kraken.png" alt="Logo of Kraken, a sponsor of PyCon UK {{ site.con_year }}" title="Kraken"></a>
 </div>
 
 <!--

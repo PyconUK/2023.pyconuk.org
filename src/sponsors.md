@@ -14,6 +14,7 @@ title: Sponsors
 <div class="box box_yellow">
   <h3>Gold sponsors</h3>
   <a href="https://kraken.tech"><img height="160" width="231" src="/images/sponsors/kraken.png" alt="Logo of Kraken, a sponsor of PyCon UK {{ site.con_year }}" title="Kraken"></a>
+  <a href="https://auth0.com"><img height="160" width="231" src="/images/sponsors/okta.png" alt="Logo of Okta, a sponsor of PyCon UK {{ site.con_year }}" title="Okta"></a>
 </div>
 
 <div class="box box_silver">

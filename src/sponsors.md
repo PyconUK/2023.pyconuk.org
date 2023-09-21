@@ -21,12 +21,10 @@ title: Sponsors
   <a href="https://www.jumpingrivers.com/"><img height="150" width="220" src="/images/sponsors/jumping-rivers.png" alt="Logo of Jumping Rivers, a sponsor of PyconUK {{ site.con_year }}" title="Jumping Rivers"></a>
 </div>
 
-<!--
 <div class="box box_bronze">
   <h3>Bronze sponsors</h3>
-  <a href="#"><img height="140" width="140" src="/images/sponsors/snakeholder.png" alt="Logo of Snakeholder, a sponsor of PyCon UK {{ site.con_year }}" title="Snakeholder"></a>
+  <a href="https://www.bennett.ox.ac.uk/"><img height="140" width="310" src="/images/sponsors/bifads.png" alt="Logo of the Bennett Institute for Applied Data Science, a sponsor of PyCon UK {{ site.con_year }}" title="Bennett Institute for Applied Data Science"></a>
 </div>
--->
 
 <div class="box box_red">
   <h3>Other Supporters</h3>

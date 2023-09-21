@@ -23,7 +23,7 @@ title: Sponsors
 
 <div class="box box_bronze">
   <h3>Bronze sponsors</h3>
-  <a href="https://www.bennett.ox.ac.uk/"><img height="140" width="140" src="/images/sponsors/bifads.png" alt="Logo of the Bennett Institute for Applied Data Science, a sponsor of PyCon UK {{ site.con_year }}" title="Bennett Institute for Applied Data Science"></a>
+  <a href="https://www.bennett.ox.ac.uk/"><img height="140" width="310" src="/images/sponsors/bifads.png" alt="Logo of the Bennett Institute for Applied Data Science, a sponsor of PyCon UK {{ site.con_year }}" title="Bennett Institute for Applied Data Science"></a>
 </div>
 
 <div class="box box_red">

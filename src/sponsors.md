@@ -15,6 +15,7 @@ title: Sponsors
   <h3>Gold sponsors</h3>
   <a href="https://kraken.tech"><img height="160" width="231" src="/images/sponsors/kraken.png" alt="Logo of Kraken, a sponsor of PyCon UK {{ site.con_year }}" title="Kraken"></a>
   <a href="https://auth0.com"><img height="160" width="375" src="/images/sponsors/okta.png" alt="Logo of Okta, a sponsor of PyCon UK {{ site.con_year }}" title="Okta"></a>
+  <a href="https://bloomberg.com"><img height="160" width="429" src="/images/sponsors/bloomberg.png" alt="Logo of Bloomberg, a sponsor of PyCon UK {{ site.con_year }}" title="Bloomberg"></a>
 </div>
 
 <div class="box box_silver">

@@ -2,7 +2,14 @@
 layout: default
 ---
 
-## PyCon UK will be returning to {{ site.con_location }} from {{ site.con_start }} to {{ site.con_finish }} {{ site.con_year }}.
+<p> Thanks everyone for helping make a great {{ site.title }}. We hope to see you again next year!
+
+<div class="box box_blue">
+  <h3>Media</h3>
+  <p><a href="https://flic.kr/s/aHBqjAVCUZ">Day 1 pictures</a> | <a href="https://www.youtube.com/watch?v=D3oaUdCdEto&list=PLrkpavSsBQZ5zQSxkdtCJaznwTrM4ZKeR&pp=iAQB">Day 1 videos</a></p>
+  <p><a href="https://flic.kr/s/aHBqjAVJGq">Day 2 pictures</a> | <a href="https://www.youtube.com/watch?v=NV2u3QyNQBQ&list=PLrkpavSsBQZ4g7DBZ0zzCSLyNb4KyYid9&pp=iAQB">Day 2 videos</a></p>
+  <p><a href="https://flic.kr/s/aHBqjAVQBX">Day 3 pictures</a> | <a href="https://www.youtube.com/watch?v=FuaJ1-b7LOc&list=PLrkpavSsBQZ7AqvbHRh1uIkJXAQ4CPLqG&pp=iAQB">Day 3 videos</a></p>
+</div>
 
 <p>You can follow us on <a href="https://fosstodon.org/@PyConUK">Mastodon (@PyConUK@fosstodon.org)</a> or <a href="https://twitter.com/pyconuk">Twitter (@PyConUK)</a>.</p>
 <br />
@@ -25,4 +32,3 @@ layout: default
 <br />
 
 {% if site.cfp_closed %}<!--{% endif %}<p>{% if site.cfp_open %}<p>Do you have an idea for something you'd like to share with our audience? <a href="/call-for-proposals/">Tell us about it!</a>{% else %}CFP coming soon!{% endif %}</p>{% if site.cfp_closed %}-->{% endif %}
-<p>{% if site.tickets_open == true %}<p><a href="/tickets">Join us in {{ site.con_location }}!</a>{% else %}Tickets coming soon!{% endif %}</p>
